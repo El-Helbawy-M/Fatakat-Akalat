@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "174779441184",
+    "project_id": "akalat-fatakat",
+    "storage_bucket": "akalat-fatakat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174779441184:android:20ad407a35151ed6171c45",
+        "android_client_info": {
+          "package_name": "com.example.fatakat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174779441184-b2c5mnl7mnajvjssntbkio719fbgb54h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fatakat",
+            "certificate_hash": "76f583e3ef50132a81ec58a2489391e6568a65ad"
+          }
+        },
+        {
+          "client_id": "174779441184-hb6e3kifk02mjljeo4au8q6ps7v9edjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA572iKyu0tmeBJW1LQJPPa9FRaeuDo3ZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174779441184-hb6e3kifk02mjljeo4au8q6ps7v9edjo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
